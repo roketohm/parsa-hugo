@@ -1,32 +1,21 @@
 baseurl = "https://villakotabatu.netlify.app"
 languageCode = "en-us"
-paginate = 6
+paginate = "6"
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "Villa Kota Batu - Info Tarif & Penginapan"
 [[menu.main]]
-name = "Homepage 1"
-parent = "Homepage"
-url = "homepage/home-1"
-weight = 1
-[[menu.main]]
 name = "Homepage 2"
 parent = "Homepage"
 url = "homepage/home-2"
-weight = 2
-[[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 3
 [[menu.main]]
 name = "About"
 url = "about"
 weight = 2
 [[menu.main]]
-hasChildren = true
-name = "Homepage"
-url = "homepage/home-2"
-weight = 1
+name = "Contact"
+url = "contact"
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
