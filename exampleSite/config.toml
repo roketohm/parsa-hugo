@@ -1,4 +1,4 @@
-baseurl = "https://examplesite.org"
+baseurl = "https://villakotabatu.netlify.app"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
