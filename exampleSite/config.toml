@@ -7,8 +7,8 @@ title = "Villa Kota Batu - Info Tarif & Penginapan"
 [[menu.main]]
 hasChildren = ""
 name = "Homepage"
-url = "home"
-weight = "2"
+url = ""
+weight = "1"
 [[menu.main]]
 name = "About"
 url = "about"
