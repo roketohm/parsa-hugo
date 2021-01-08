@@ -81,3 +81,8 @@ url = "#"
 [[params.social]]
 icon = "ti-github"
 url = "#"
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
