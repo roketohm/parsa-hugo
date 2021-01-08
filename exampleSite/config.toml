@@ -20,7 +20,7 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "6 rip carl Avenue CA 90733"
+address = "Jl. Kampung satelite Batu Malang"
 author = "Villa Kota Batu"
 author_image = "images/banner-img.png"
 bio = "Informasi Harga sewa Villa di Batu malang Fasilitas Kolam Renang View Pemandangan Terbaik"
