@@ -2,7 +2,6 @@
 categories = ["Info Villa"]
 date = 2021-01-07T17:00:00Z
 description = "info penginapan kota batu"
-draft = true
 image = "/images/penginapankotabatu.jpg"
 tags = []
 title = "Villa Keluarga di Kota Batu"
