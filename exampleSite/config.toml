@@ -4,6 +4,14 @@ paginate = "6"
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "Villa Kota Batu - Info Tarif & Penginapan"
+
+enableEmoji = true
+enableGitInfo = true
+enableRobotsTXT = true
+canonifyURLs = true
+
+
+
 [[menu.main]]
 hasChildren = ""
 name = "Homepage"
